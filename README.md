@@ -4,9 +4,14 @@
 
 
 #### Resumo:
-- Eu utilizei o SQL Server para selecionar as tabelas necesárias para realizar o relatorio de vendas pros anos de 2013 e 2014 do Banco de dados.
+- Eu utilizei o SQL Server para selecionar as tabelas necesárias para realizar o relatório de vendas pros anos de 2013 e 2014 do Banco de dados.
 Com a linguagem SQL eu selecionei apenas as colunas que me interessavam,organizei os dados de uma forma que me ajudariam a trabalhar depois.
-No Power Bi eu fiz toda a parte de plotagem dos dados.
+No Power Bi eu fiz a parte de relacionamento entre as tabelas filtradas e a parte de plotagem dos dados.
+
+
+### Relações entre tabelas
+
+![image](https://github.com/Jonatas-G-Oliveira/Dashboard_ADventureWorks/assets/130922069/6088cc2b-8153-40bc-a29c-fea3b792b583)
 
 
 ### Resultado final:
