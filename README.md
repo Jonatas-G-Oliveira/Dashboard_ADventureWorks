@@ -1,10 +1,10 @@
-### O objetivo desse projeto foi criar um Dashboard com a base de dados exemplo da Microsoft
+### Criando um Dashboard com a base de dados exemplo da Microsoft
 - Tecnologias utilizadas:
 - SQL Server e POWER BI
 
 
 #### Resumo:
-Eu utilizei o SQL Server para selecionar as tabelas necesárias para realizar o relatorio de vendas pros anos de 2013 e 2014 do Banco de dados.
+- Eu utilizei o SQL Server para selecionar as tabelas necesárias para realizar o relatorio de vendas pros anos de 2013 e 2014 do Banco de dados.
 Com a linguagem SQL eu selecionei apenas as colunas que me interessavam,organizei os dados de uma forma que me ajudariam a trabalhar depois.
 No Power Bi eu fiz toda a parte de plotagem dos dados.
 
