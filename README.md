@@ -9,7 +9,7 @@ Com a linguagem SQL eu selecionei apenas as colunas que me interessavam,organize
 No Power Bi eu fiz toda a parte de plotagem dos dados.
 
 
-O resultado final foi esse>
+### Resultado final:
 
 ![Relatório](https://github.com/Jonatas-G-Oliveira/Dashboard_ADventureWorks/assets/130922069/bd33b524-ecb7-4c86-9576-11747f71b129)
 
@@ -19,9 +19,10 @@ O resultado final foi esse>
 
 
 
+## 
 Os Scripts SQL estão disponíveis  no repositório.
 A base de dados pode ser encontrada em:
-https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+<https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms>
 
 
 
