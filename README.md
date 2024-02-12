@@ -21,8 +21,7 @@ No Power Bi eu fiz toda a parte de plotagem dos dados.
 
 ## 
 Os Scripts SQL estão disponíveis  no repositório.
-A base de dados pode ser encontrada em:
-<https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms>
+-A base de dados pode ser encontrada em: <https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms>
 
 
 
