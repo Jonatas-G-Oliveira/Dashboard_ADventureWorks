@@ -1,0 +1,607 @@
+﻿ProductKey;ProductSubCategoryKey;EnglishName;SubName;Color;ProductLine
+1;-1;Adjustable Race;Unranked;NA;NA
+2;-1;Bearing Ball;Unranked;NA;NA
+3;-1;BB Ball Bearing;Unranked;NA;NA
+4;-1;Headset Ball Bearings;Unranked;NA;NA
+5;-1;Blade;Unranked;NA;NA
+6;-1;LL Crankarm;Unranked;Black;NA
+7;-1;ML Crankarm;Unranked;Black;NA
+8;-1;HL Crankarm;Unranked;Black;NA
+9;-1;Chainring Bolts;Unranked;Silver;NA
+10;-1;Chainring Nut;Unranked;Silver;NA
+11;-1;Chainring;Unranked;Black;NA
+12;-1;Crown Race;Unranked;NA;NA
+13;-1;Chain Stays;Unranked;NA;NA
+14;-1;Decal 1;Unranked;NA;NA
+15;-1;Decal 2;Unranked;NA;NA
+16;-1;Down Tube;Unranked;NA;NA
+17;-1;Mountain End Caps;Unranked;NA;NA
+18;-1;Road End Caps;Unranked;NA;NA
+19;-1;Touring End Caps;Unranked;NA;NA
+20;-1;Fork End;Unranked;NA;NA
+21;-1;Freewheel;Unranked;Silver;NA
+22;-1;Flat Washer 1;Unranked;NA;NA
+23;-1;Flat Washer 6;Unranked;NA;NA
+24;-1;Flat Washer 2;Unranked;NA;NA
+25;-1;Flat Washer 9;Unranked;NA;NA
+26;-1;Flat Washer 4;Unranked;NA;NA
+27;-1;Flat Washer 3;Unranked;NA;NA
+28;-1;Flat Washer 8;Unranked;NA;NA
+29;-1;Flat Washer 5;Unranked;NA;NA
+30;-1;Flat Washer 7;Unranked;NA;NA
+31;-1;Fork Crown;Unranked;NA;NA
+32;-1;Front Derailleur Cage;Unranked;Silver;NA
+33;-1;Front Derailleur Linkage;Unranked;Silver;NA
+34;-1;Guide Pulley;Unranked;NA;NA
+35;-1;LL Grip Tape;Unranked;NA;NA
+36;-1;ML Grip Tape;Unranked;NA;NA
+37;-1;HL Grip Tape;Unranked;NA;NA
+38;-1;Thin-Jam Hex Nut 9;Unranked;NA;NA
+39;-1;Thin-Jam Hex Nut 10;Unranked;NA;NA
+40;-1;Thin-Jam Hex Nut 1;Unranked;NA;NA
+41;-1;Thin-Jam Hex Nut 2;Unranked;NA;NA
+42;-1;Thin-Jam Hex Nut 15;Unranked;NA;NA
+43;-1;Thin-Jam Hex Nut 16;Unranked;NA;NA
+44;-1;Thin-Jam Hex Nut 5;Unranked;NA;NA
+45;-1;Thin-Jam Hex Nut 6;Unranked;NA;NA
+46;-1;Thin-Jam Hex Nut 3;Unranked;NA;NA
+47;-1;Thin-Jam Hex Nut 4;Unranked;NA;NA
+48;-1;Thin-Jam Hex Nut 13;Unranked;NA;NA
+49;-1;Thin-Jam Hex Nut 14;Unranked;NA;NA
+50;-1;Thin-Jam Hex Nut 7;Unranked;NA;NA
+51;-1;Thin-Jam Hex Nut 8;Unranked;NA;NA
+52;-1;Thin-Jam Hex Nut 12;Unranked;NA;NA
+53;-1;Thin-Jam Hex Nut 11;Unranked;NA;NA
+54;-1;Hex Nut 5;Unranked;NA;NA
+55;-1;Hex Nut 6;Unranked;NA;NA
+56;-1;Hex Nut 16;Unranked;NA;NA
+57;-1;Hex Nut 17;Unranked;NA;NA
+58;-1;Hex Nut 7;Unranked;NA;NA
+59;-1;Hex Nut 8;Unranked;NA;NA
+60;-1;Hex Nut 9;Unranked;NA;NA
+61;-1;Hex Nut 22;Unranked;NA;NA
+62;-1;Hex Nut 23;Unranked;NA;NA
+63;-1;Hex Nut 12;Unranked;NA;NA
+64;-1;Hex Nut 13;Unranked;NA;NA
+65;-1;Hex Nut 1;Unranked;NA;NA
+66;-1;Hex Nut 10;Unranked;NA;NA
+67;-1;Hex Nut 11;Unranked;NA;NA
+68;-1;Hex Nut 2;Unranked;NA;NA
+69;-1;Hex Nut 20;Unranked;NA;NA
+70;-1;Hex Nut 21;Unranked;NA;NA
+71;-1;Hex Nut 3;Unranked;NA;NA
+72;-1;Hex Nut 14;Unranked;NA;NA
+73;-1;Hex Nut 15;Unranked;NA;NA
+74;-1;Hex Nut 4;Unranked;NA;NA
+75;-1;Hex Nut 18;Unranked;NA;NA
+76;-1;Hex Nut 19;Unranked;NA;NA
+77;-1;Handlebar Tube;Unranked;NA;NA
+78;-1;Head Tube;Unranked;NA;NA
+79;-1;LL Hub;Unranked;NA;NA
+80;-1;HL Hub;Unranked;NA;NA
+81;-1;Keyed Washer;Unranked;NA;NA
+82;-1;External Lock Washer 3;Unranked;NA;NA
+83;-1;External Lock Washer 4;Unranked;NA;NA
+84;-1;External Lock Washer 9;Unranked;NA;NA
+85;-1;External Lock Washer 5;Unranked;NA;NA
+86;-1;External Lock Washer 7;Unranked;NA;NA
+87;-1;External Lock Washer 6;Unranked;NA;NA
+88;-1;External Lock Washer 1;Unranked;NA;NA
+89;-1;External Lock Washer 8;Unranked;NA;NA
+90;-1;External Lock Washer 2;Unranked;NA;NA
+91;-1;Internal Lock Washer 3;Unranked;NA;NA
+92;-1;Internal Lock Washer 4;Unranked;NA;NA
+93;-1;Internal Lock Washer 9;Unranked;NA;NA
+94;-1;Internal Lock Washer 5;Unranked;NA;NA
+95;-1;Internal Lock Washer 7;Unranked;NA;NA
+96;-1;Internal Lock Washer 6;Unranked;NA;NA
+97;-1;Internal Lock Washer 10;Unranked;NA;NA
+98;-1;Internal Lock Washer 1;Unranked;NA;NA
+99;-1;Internal Lock Washer 8;Unranked;NA;NA
+100;-1;Internal Lock Washer 2;Unranked;NA;NA
+101;-1;Thin-Jam Lock Nut 9;Unranked;NA;NA
+102;-1;Thin-Jam Lock Nut 10;Unranked;NA;NA
+103;-1;Thin-Jam Lock Nut 1;Unranked;NA;NA
+104;-1;Thin-Jam Lock Nut 2;Unranked;NA;NA
+105;-1;Thin-Jam Lock Nut 15;Unranked;NA;NA
+106;-1;Thin-Jam Lock Nut 16;Unranked;NA;NA
+107;-1;Thin-Jam Lock Nut 5;Unranked;NA;NA
+108;-1;Thin-Jam Lock Nut 6;Unranked;NA;NA
+109;-1;Thin-Jam Lock Nut 3;Unranked;NA;NA
+110;-1;Thin-Jam Lock Nut 4;Unranked;NA;NA
+111;-1;Thin-Jam Lock Nut 13;Unranked;NA;NA
+112;-1;Thin-Jam Lock Nut 14;Unranked;NA;NA
+113;-1;Thin-Jam Lock Nut 7;Unranked;NA;NA
+114;-1;Thin-Jam Lock Nut 8;Unranked;NA;NA
+115;-1;Thin-Jam Lock Nut 12;Unranked;NA;NA
+116;-1;Thin-Jam Lock Nut 11;Unranked;NA;NA
+117;-1;Lock Nut 5;Unranked;NA;NA
+118;-1;Lock Nut 6;Unranked;NA;NA
+119;-1;Lock Nut 16;Unranked;NA;NA
+120;-1;Lock Nut 17;Unranked;NA;NA
+121;-1;Lock Nut 7;Unranked;NA;NA
+122;-1;Lock Nut 8;Unranked;NA;NA
+123;-1;Lock Nut 9;Unranked;NA;NA
+124;-1;Lock Nut 22;Unranked;NA;NA
+125;-1;Lock Nut 23;Unranked;NA;NA
+126;-1;Lock Nut 12;Unranked;NA;NA
+127;-1;Lock Nut 13;Unranked;NA;NA
+128;-1;Lock Nut 1;Unranked;NA;NA
+129;-1;Lock Nut 10;Unranked;NA;NA
+130;-1;Lock Nut 11;Unranked;NA;NA
+131;-1;Lock Nut 2;Unranked;NA;NA
+132;-1;Lock Nut 20;Unranked;NA;NA
+133;-1;Lock Nut 21;Unranked;NA;NA
+134;-1;Lock Nut 3;Unranked;NA;NA
+135;-1;Lock Nut 14;Unranked;NA;NA
+136;-1;Lock Nut 15;Unranked;NA;NA
+137;-1;Lock Nut 4;Unranked;NA;NA
+138;-1;Lock Nut 19;Unranked;NA;NA
+139;-1;Lock Nut 18;Unranked;NA;NA
+140;-1;Lock Ring;Unranked;Silver;NA
+141;-1;Lower Head Race;Unranked;NA;NA
+142;-1;Lock Washer 4;Unranked;NA;NA
+143;-1;Lock Washer 5;Unranked;NA;NA
+144;-1;Lock Washer 10;Unranked;NA;NA
+145;-1;Lock Washer 6;Unranked;NA;NA
+146;-1;Lock Washer 13;Unranked;NA;NA
+147;-1;Lock Washer 8;Unranked;NA;NA
+148;-1;Lock Washer 1;Unranked;NA;NA
+149;-1;Lock Washer 7;Unranked;NA;NA
+150;-1;Lock Washer 12;Unranked;NA;NA
+151;-1;Lock Washer 2;Unranked;NA;NA
+152;-1;Lock Washer 9;Unranked;NA;NA
+153;-1;Lock Washer 3;Unranked;NA;NA
+154;-1;Lock Washer 11;Unranked;NA;NA
+155;-1;Metal Angle;Unranked;NA;NA
+156;-1;Metal Bar 1;Unranked;NA;NA
+157;-1;Metal Bar 2;Unranked;NA;NA
+158;-1;Metal Plate 2;Unranked;NA;NA
+159;-1;Metal Plate 1;Unranked;NA;NA
+160;-1;Metal Plate 3;Unranked;NA;NA
+161;-1;Metal Sheet 2;Unranked;NA;NA
+162;-1;Metal Sheet 3;Unranked;NA;NA
+163;-1;Metal Sheet 7;Unranked;NA;NA
+164;-1;Metal Sheet 4;Unranked;NA;NA
+165;-1;Metal Sheet 5;Unranked;NA;NA
+166;-1;Metal Sheet 6;Unranked;NA;NA
+167;-1;Metal Sheet 1;Unranked;NA;NA
+168;-1;Metal Tread Plate;Unranked;NA;NA
+169;-1;LL Nipple;Unranked;NA;NA
+170;-1;HL Nipple;Unranked;NA;NA
+171;-1;Paint - Black;Unranked;NA;NA
+172;-1;Paint - Red;Unranked;NA;NA
+173;-1;Paint - Silver;Unranked;NA;NA
+174;-1;Paint - Blue;Unranked;NA;NA
+175;-1;Paint - Yellow;Unranked;NA;NA
+176;-1;Pinch Bolt;Unranked;NA;NA
+177;-1;Cup-Shaped Race;Unranked;NA;NA
+178;-1;Cone-Shaped Race;Unranked;NA;NA
+179;-1;Reflector;Unranked;NA;NA
+180;-1;LL Mountain Rim;Unranked;NA;NA
+181;-1;ML Mountain Rim;Unranked;NA;NA
+182;-1;HL Mountain Rim;Unranked;NA;NA
+183;-1;LL Road Rim;Unranked;NA;NA
+184;-1;ML Road Rim;Unranked;NA;NA
+185;-1;HL Road Rim;Unranked;NA;NA
+186;-1;Touring Rim;Unranked;NA;NA
+187;-1;LL Mountain Seat Assembly;Unranked;NA;NA
+188;-1;ML Mountain Seat Assembly;Unranked;NA;NA
+189;-1;HL Mountain Seat Assembly;Unranked;NA;NA
+190;-1;LL Road Seat Assembly;Unranked;NA;NA
+191;-1;ML Road Seat Assembly;Unranked;NA;NA
+192;-1;HL Road Seat Assembly;Unranked;NA;NA
+193;-1;LL Touring Seat Assembly;Unranked;NA;NA
+194;-1;ML Touring Seat Assembly;Unranked;NA;NA
+195;-1;HL Touring Seat Assembly;Unranked;NA;NA
+196;-1;LL Spindle/Axle;Unranked;NA;NA
+197;-1;HL Spindle/Axle;Unranked;NA;NA
+198;-1;LL Shell;Unranked;NA;NA
+199;-1;HL Shell;Unranked;NA;NA
+200;-1;Spokes;Unranked;NA;NA
+201;-1;Seat Lug;Unranked;NA;NA
+202;-1;Stem;Unranked;NA;NA
+203;-1;Seat Post;Unranked;NA;NA
+204;-1;Steerer;Unranked;NA;NA
+205;-1;Seat Stays;Unranked;NA;NA
+206;-1;Seat Tube;Unranked;NA;NA
+207;-1;Top Tube;Unranked;NA;NA
+208;-1;Tension Pulley;Unranked;NA;NA
+209;-1;Rear Derailleur Cage;Unranked;Silver;NA
+344;1;Mountain-100 Silver, 38;Mountain Bikes;Silver;"M "
+345;1;Mountain-100 Silver, 42;Mountain Bikes;Silver;"M "
+346;1;Mountain-100 Silver, 44;Mountain Bikes;Silver;"M "
+347;1;Mountain-100 Silver, 48;Mountain Bikes;Silver;"M "
+348;1;Mountain-100 Black, 38;Mountain Bikes;Black;"M "
+349;1;Mountain-100 Black, 42;Mountain Bikes;Black;"M "
+350;1;Mountain-100 Black, 44;Mountain Bikes;Black;"M "
+351;1;Mountain-100 Black, 48;Mountain Bikes;Black;"M "
+352;1;Mountain-200 Silver, 38;Mountain Bikes;Silver;"M "
+353;1;Mountain-200 Silver, 38;Mountain Bikes;Silver;"M "
+354;1;Mountain-200 Silver, 42;Mountain Bikes;Silver;"M "
+355;1;Mountain-200 Silver, 42;Mountain Bikes;Silver;"M "
+356;1;Mountain-200 Silver, 46;Mountain Bikes;Silver;"M "
+357;1;Mountain-200 Silver, 46;Mountain Bikes;Silver;"M "
+358;1;Mountain-200 Black, 38;Mountain Bikes;Black;"M "
+359;1;Mountain-200 Black, 38;Mountain Bikes;Black;"M "
+360;1;Mountain-200 Black, 42;Mountain Bikes;Black;"M "
+361;1;Mountain-200 Black, 42;Mountain Bikes;Black;"M "
+362;1;Mountain-200 Black, 46;Mountain Bikes;Black;"M "
+363;1;Mountain-200 Black, 46;Mountain Bikes;Black;"M "
+364;1;Mountain-300 Black, 38;Mountain Bikes;Black;"M "
+365;1;Mountain-300 Black, 40;Mountain Bikes;Black;"M "
+366;1;Mountain-300 Black, 44;Mountain Bikes;Black;"M "
+367;1;Mountain-300 Black, 48;Mountain Bikes;Black;"M "
+587;1;Mountain-400-W Silver, 38;Mountain Bikes;Silver;"M "
+588;1;Mountain-400-W Silver, 40;Mountain Bikes;Silver;"M "
+589;1;Mountain-400-W Silver, 42;Mountain Bikes;Silver;"M "
+590;1;Mountain-400-W Silver, 46;Mountain Bikes;Silver;"M "
+591;1;Mountain-500 Silver, 40;Mountain Bikes;Silver;"M "
+592;1;Mountain-500 Silver, 42;Mountain Bikes;Silver;"M "
+593;1;Mountain-500 Silver, 44;Mountain Bikes;Silver;"M "
+594;1;Mountain-500 Silver, 48;Mountain Bikes;Silver;"M "
+595;1;Mountain-500 Silver, 52;Mountain Bikes;Silver;"M "
+596;1;Mountain-500 Black, 40;Mountain Bikes;Black;"M "
+597;1;Mountain-500 Black, 42;Mountain Bikes;Black;"M "
+598;1;Mountain-500 Black, 44;Mountain Bikes;Black;"M "
+599;1;Mountain-500 Black, 48;Mountain Bikes;Black;"M "
+600;1;Mountain-500 Black, 52;Mountain Bikes;Black;"M "
+580;2;Road-350-W Yellow, 40;Road Bikes;Yellow;"R "
+581;2;Road-350-W Yellow, 42;Road Bikes;Yellow;"R "
+582;2;Road-350-W Yellow, 44;Road Bikes;Yellow;"R "
+583;2;Road-350-W Yellow, 48;Road Bikes;Yellow;"R "
+584;2;Road-750 Black, 58;Road Bikes;Black;"R "
+604;2;Road-750 Black, 44;Road Bikes;Black;"R "
+605;2;Road-750 Black, 48;Road Bikes;Black;"R "
+606;2;Road-750 Black, 52;Road Bikes;Black;"R "
+368;2;Road-250 Red, 44;Road Bikes;Red;"R "
+369;2;Road-250 Red, 48;Road Bikes;Red;"R "
+370;2;Road-250 Red, 52;Road Bikes;Red;"R "
+371;2;Road-250 Red, 58;Road Bikes;Red;"R "
+372;2;Road-250 Red, 58;Road Bikes;Red;"R "
+373;2;Road-250 Black, 44;Road Bikes;Black;"R "
+374;2;Road-250 Black, 44;Road Bikes;Black;"R "
+375;2;Road-250 Black, 48;Road Bikes;Black;"R "
+376;2;Road-250 Black, 48;Road Bikes;Black;"R "
+377;2;Road-250 Black, 52;Road Bikes;Black;"R "
+378;2;Road-250 Black, 52;Road Bikes;Black;"R "
+379;2;Road-250 Black, 58;Road Bikes;Black;"R "
+380;2;Road-250 Black, 58;Road Bikes;Black;"R "
+381;2;Road-550-W Yellow, 38;Road Bikes;Yellow;"R "
+382;2;Road-550-W Yellow, 38;Road Bikes;Yellow;"R "
+383;2;Road-550-W Yellow, 40;Road Bikes;Yellow;"R "
+384;2;Road-550-W Yellow, 40;Road Bikes;Yellow;"R "
+385;2;Road-550-W Yellow, 42;Road Bikes;Yellow;"R "
+386;2;Road-550-W Yellow, 42;Road Bikes;Yellow;"R "
+387;2;Road-550-W Yellow, 44;Road Bikes;Yellow;"R "
+388;2;Road-550-W Yellow, 44;Road Bikes;Yellow;"R "
+389;2;Road-550-W Yellow, 48;Road Bikes;Yellow;"R "
+390;2;Road-550-W Yellow, 48;Road Bikes;Yellow;"R "
+310;2;Road-150 Red, 62;Road Bikes;Red;"R "
+311;2;Road-150 Red, 44;Road Bikes;Red;"R "
+312;2;Road-150 Red, 48;Road Bikes;Red;"R "
+313;2;Road-150 Red, 52;Road Bikes;Red;"R "
+314;2;Road-150 Red, 56;Road Bikes;Red;"R "
+315;2;Road-450 Red, 58;Road Bikes;Red;"R "
+316;2;Road-450 Red, 60;Road Bikes;Red;"R "
+317;2;Road-450 Red, 44;Road Bikes;Red;"R "
+318;2;Road-450 Red, 48;Road Bikes;Red;"R "
+319;2;Road-450 Red, 52;Road Bikes;Red;"R "
+320;2;Road-650 Red, 58;Road Bikes;Red;"R "
+321;2;Road-650 Red, 58;Road Bikes;Red;"R "
+322;2;Road-650 Red, 60;Road Bikes;Red;"R "
+323;2;Road-650 Red, 60;Road Bikes;Red;"R "
+324;2;Road-650 Red, 62;Road Bikes;Red;"R "
+325;2;Road-650 Red, 62;Road Bikes;Red;"R "
+326;2;Road-650 Red, 44;Road Bikes;Red;"R "
+327;2;Road-650 Red, 44;Road Bikes;Red;"R "
+328;2;Road-650 Red, 48;Road Bikes;Red;"R "
+329;2;Road-650 Red, 48;Road Bikes;Red;"R "
+330;2;Road-650 Red, 52;Road Bikes;Red;"R "
+331;2;Road-650 Red, 52;Road Bikes;Red;"R "
+332;2;Road-650 Black, 58;Road Bikes;Black;"R "
+333;2;Road-650 Black, 58;Road Bikes;Black;"R "
+334;2;Road-650 Black, 60;Road Bikes;Black;"R "
+335;2;Road-650 Black, 60;Road Bikes;Black;"R "
+336;2;Road-650 Black, 62;Road Bikes;Black;"R "
+337;2;Road-650 Black, 62;Road Bikes;Black;"R "
+338;2;Road-650 Black, 44;Road Bikes;Black;"R "
+339;2;Road-650 Black, 44;Road Bikes;Black;"R "
+340;2;Road-650 Black, 48;Road Bikes;Black;"R "
+341;2;Road-650 Black, 48;Road Bikes;Black;"R "
+342;2;Road-650 Black, 52;Road Bikes;Black;"R "
+343;2;Road-650 Black, 52;Road Bikes;Black;"R "
+585;3;Touring-3000 Blue, 44;Touring Bikes;Blue;"T "
+586;3;Touring-3000 Blue, 50;Touring Bikes;Blue;"T "
+560;3;Touring-2000 Blue, 60;Touring Bikes;Blue;"T "
+561;3;Touring-1000 Yellow, 46;Touring Bikes;Yellow;"T "
+562;3;Touring-1000 Yellow, 50;Touring Bikes;Yellow;"T "
+563;3;Touring-1000 Yellow, 54;Touring Bikes;Yellow;"T "
+564;3;Touring-1000 Yellow, 60;Touring Bikes;Yellow;"T "
+565;3;Touring-3000 Blue, 54;Touring Bikes;Blue;"T "
+566;3;Touring-3000 Blue, 58;Touring Bikes;Blue;"T "
+567;3;Touring-3000 Blue, 62;Touring Bikes;Blue;"T "
+568;3;Touring-3000 Yellow, 44;Touring Bikes;Yellow;"T "
+569;3;Touring-3000 Yellow, 50;Touring Bikes;Yellow;"T "
+570;3;Touring-3000 Yellow, 54;Touring Bikes;Yellow;"T "
+571;3;Touring-3000 Yellow, 58;Touring Bikes;Yellow;"T "
+572;3;Touring-3000 Yellow, 62;Touring Bikes;Yellow;"T "
+573;3;Touring-1000 Blue, 46;Touring Bikes;Blue;"T "
+574;3;Touring-1000 Blue, 50;Touring Bikes;Blue;"T "
+575;3;Touring-1000 Blue, 54;Touring Bikes;Blue;"T "
+576;3;Touring-1000 Blue, 60;Touring Bikes;Blue;"T "
+577;3;Touring-2000 Blue, 46;Touring Bikes;Blue;"T "
+578;3;Touring-2000 Blue, 50;Touring Bikes;Blue;"T "
+579;3;Touring-2000 Blue, 54;Touring Bikes;Blue;"T "
+553;4;LL Touring Handlebars;Handlebars;NA;"T "
+554;4;HL Touring Handlebars;Handlebars;NA;"T "
+397;4;LL Mountain Handlebars;Handlebars;NA;"M "
+398;4;LL Mountain Handlebars;Handlebars;NA;"M "
+399;4;ML Mountain Handlebars;Handlebars;NA;"M "
+400;4;ML Mountain Handlebars;Handlebars;NA;"M "
+401;4;HL Mountain Handlebars;Handlebars;NA;"M "
+402;4;HL Mountain Handlebars;Handlebars;NA;"M "
+403;4;LL Road Handlebars;Handlebars;NA;"R "
+404;4;LL Road Handlebars;Handlebars;NA;"R "
+405;4;ML Road Handlebars;Handlebars;NA;"R "
+406;4;ML Road Handlebars;Handlebars;NA;"R "
+407;4;HL Road Handlebars;Handlebars;NA;"R "
+408;4;HL Road Handlebars;Handlebars;NA;"R "
+601;5;LL Bottom Bracket;Bottom Brackets;NA;NA
+602;5;ML Bottom Bracket;Bottom Brackets;NA;NA
+603;5;HL Bottom Bracket;Bottom Brackets;NA;NA
+555;6;Front Brakes;Brakes;Silver;NA
+514;6;Rear Brakes;Brakes;Silver;NA
+559;7;Chain;Chains;Silver;NA
+556;8;LL Crankset;Cranksets;Black;NA
+557;8;ML Crankset;Cranksets;Black;NA
+558;8;HL Crankset;Cranksets;Black;NA
+501;9;Rear Derailleur;Derailleurs;Silver;NA
+552;9;Front Derailleur;Derailleurs;Silver;NA
+391;10;LL Fork;Forks;NA;NA
+392;10;ML Fork;Forks;NA;NA
+393;10;HL Fork;Forks;NA;NA
+394;11;LL Headset;Headsets;NA;NA
+395;11;ML Headset;Headsets;NA;NA
+396;11;HL Headset;Headsets;NA;NA
+409;12;ML Mountain Frame - Black, 38;Mountain Frames;Black;"M "
+288;12;HL Mountain Frame - Silver, 42;Mountain Frames;Silver;"M "
+289;12;HL Mountain Frame - Silver, 42;Mountain Frames;Silver;"M "
+290;12;HL Mountain Frame - Silver, 42;Mountain Frames;Silver;"M "
+291;12;HL Mountain Frame - Silver, 44;Mountain Frames;Silver;"M "
+292;12;HL Mountain Frame - Silver, 48;Mountain Frames;Silver;"M "
+293;12;HL Mountain Frame - Silver, 46;Mountain Frames;Silver;"M "
+294;12;HL Mountain Frame - Silver, 46;Mountain Frames;Silver;"M "
+295;12;HL Mountain Frame - Silver, 46;Mountain Frames;Silver;"M "
+296;12;HL Mountain Frame - Black, 42;Mountain Frames;Black;"M "
+297;12;HL Mountain Frame - Black, 42;Mountain Frames;Black;"M "
+298;12;HL Mountain Frame - Black, 42;Mountain Frames;Black;"M "
+299;12;HL Mountain Frame - Black, 44;Mountain Frames;Black;"M "
+300;12;HL Mountain Frame - Black, 48;Mountain Frames;Black;"M "
+301;12;HL Mountain Frame - Black, 46;Mountain Frames;Black;"M "
+302;12;HL Mountain Frame - Black, 46;Mountain Frames;Black;"M "
+303;12;HL Mountain Frame - Black, 46;Mountain Frames;Black;"M "
+304;12;HL Mountain Frame - Black, 38;Mountain Frames;Black;"M "
+305;12;HL Mountain Frame - Black, 38;Mountain Frames;Black;"M "
+306;12;HL Mountain Frame - Black, 38;Mountain Frames;Black;"M "
+307;12;HL Mountain Frame - Silver, 38;Mountain Frames;Silver;"M "
+308;12;HL Mountain Frame - Silver, 38;Mountain Frames;Silver;"M "
+309;12;HL Mountain Frame - Silver, 38;Mountain Frames;Silver;"M "
+549;12;ML Mountain Frame-W - Silver, 38;Mountain Frames;Silver;"M "
+550;12;LL Mountain Frame - Black, 40;Mountain Frames;Black;"M "
+551;12;LL Mountain Frame - Silver, 40;Mountain Frames;Silver;"M "
+511;12;ML Mountain Frame-W - Silver, 40;Mountain Frames;Silver;"M "
+512;12;ML Mountain Frame-W - Silver, 42;Mountain Frames;Silver;"M "
+513;12;ML Mountain Frame-W - Silver, 46;Mountain Frames;Silver;"M "
+524;12;LL Mountain Frame - Silver, 42;Mountain Frames;Silver;"M "
+525;12;LL Mountain Frame - Silver, 44;Mountain Frames;Silver;"M "
+526;12;LL Mountain Frame - Silver, 48;Mountain Frames;Silver;"M "
+527;12;LL Mountain Frame - Silver, 52;Mountain Frames;Silver;"M "
+531;12;LL Mountain Frame - Black, 42;Mountain Frames;Black;"M "
+532;12;LL Mountain Frame - Black, 44;Mountain Frames;Black;"M "
+533;12;LL Mountain Frame - Black, 48;Mountain Frames;Black;"M "
+534;12;LL Mountain Frame - Black, 52;Mountain Frames;Black;"M "
+426;12;ML Mountain Frame - Black, 40;Mountain Frames;Black;"M "
+427;12;ML Mountain Frame - Black, 44;Mountain Frames;Black;"M "
+428;12;ML Mountain Frame - Black, 48;Mountain Frames;Black;"M "
+542;13;LL Mountain Pedal;Pedals;Silver/Black;"M "
+543;13;ML Mountain Pedal;Pedals;Silver/Black;"M "
+544;13;HL Mountain Pedal;Pedals;Silver/Black;"M "
+545;13;LL Road Pedal;Pedals;Silver/Black;"R "
+546;13;ML Road Pedal;Pedals;Silver/Black;"R "
+547;13;HL Road Pedal;Pedals;Silver/Black;"R "
+548;13;Touring Pedal;Pedals;Silver/Black;"T "
+429;14;ML Road Frame-W - Yellow, 40;Road Frames;Yellow;"R "
+430;14;ML Road Frame-W - Yellow, 40;Road Frames;Yellow;"R "
+431;14;ML Road Frame-W - Yellow, 42;Road Frames;Yellow;"R "
+432;14;ML Road Frame-W - Yellow, 42;Road Frames;Yellow;"R "
+433;14;ML Road Frame-W - Yellow, 44;Road Frames;Yellow;"R "
+434;14;ML Road Frame-W - Yellow, 44;Road Frames;Yellow;"R "
+435;14;ML Road Frame-W - Yellow, 48;Road Frames;Yellow;"R "
+436;14;ML Road Frame-W - Yellow, 48;Road Frames;Yellow;"R "
+437;14;HL Road Frame - Black, 62;Road Frames;Black;"R "
+438;14;HL Road Frame - Black, 62;Road Frames;Black;"R "
+439;14;HL Road Frame - Black, 44;Road Frames;Black;"R "
+440;14;HL Road Frame - Black, 44;Road Frames;Black;"R "
+441;14;HL Road Frame - Black, 48;Road Frames;Black;"R "
+442;14;HL Road Frame - Black, 48;Road Frames;Black;"R "
+443;14;HL Road Frame - Black, 52;Road Frames;Black;"R "
+444;14;HL Road Frame - Black, 52;Road Frames;Black;"R "
+417;14;ML Road Frame-W - Yellow, 38;Road Frames;Yellow;"R "
+418;14;ML Road Frame-W - Yellow, 38;Road Frames;Yellow;"R "
+238;14;HL Road Frame - Red, 62;Road Frames;Red;"R "
+239;14;HL Road Frame - Red, 62;Road Frames;Red;"R "
+240;14;HL Road Frame - Red, 62;Road Frames;Red;"R "
+241;14;HL Road Frame - Red, 44;Road Frames;Red;"R "
+242;14;HL Road Frame - Red, 44;Road Frames;Red;"R "
+243;14;HL Road Frame - Red, 44;Road Frames;Red;"R "
+244;14;HL Road Frame - Red, 48;Road Frames;Red;"R "
+245;14;HL Road Frame - Red, 48;Road Frames;Red;"R "
+246;14;HL Road Frame - Red, 48;Road Frames;Red;"R "
+247;14;HL Road Frame - Red, 52;Road Frames;Red;"R "
+248;14;HL Road Frame - Red, 52;Road Frames;Red;"R "
+249;14;HL Road Frame - Red, 52;Road Frames;Red;"R "
+250;14;HL Road Frame - Red, 56;Road Frames;Red;"R "
+251;14;HL Road Frame - Red, 56;Road Frames;Red;"R "
+252;14;HL Road Frame - Red, 56;Road Frames;Red;"R "
+253;14;LL Road Frame - Black, 58;Road Frames;Black;"R "
+254;14;LL Road Frame - Black, 58;Road Frames;Black;"R "
+255;14;LL Road Frame - Black, 58;Road Frames;Black;"R "
+256;14;LL Road Frame - Black, 60;Road Frames;Black;"R "
+257;14;LL Road Frame - Black, 60;Road Frames;Black;"R "
+258;14;LL Road Frame - Black, 60;Road Frames;Black;"R "
+259;14;LL Road Frame - Black, 62;Road Frames;Black;"R "
+260;14;LL Road Frame - Black, 62;Road Frames;Black;"R "
+261;14;LL Road Frame - Black, 62;Road Frames;Black;"R "
+262;14;LL Road Frame - Red, 44;Road Frames;Red;"R "
+263;14;LL Road Frame - Red, 44;Road Frames;Red;"R "
+264;14;LL Road Frame - Red, 48;Road Frames;Red;"R "
+265;14;LL Road Frame - Red, 48;Road Frames;Red;"R "
+266;14;LL Road Frame - Red, 52;Road Frames;Red;"R "
+267;14;LL Road Frame - Red, 52;Road Frames;Red;"R "
+268;14;LL Road Frame - Red, 58;Road Frames;Red;"R "
+269;14;LL Road Frame - Red, 58;Road Frames;Red;"R "
+270;14;LL Road Frame - Red, 60;Road Frames;Red;"R "
+271;14;LL Road Frame - Red, 60;Road Frames;Red;"R "
+272;14;LL Road Frame - Red, 62;Road Frames;Red;"R "
+273;14;LL Road Frame - Red, 62;Road Frames;Red;"R "
+274;14;ML Road Frame - Red, 44;Road Frames;Red;"R "
+275;14;ML Road Frame - Red, 48;Road Frames;Red;"R "
+276;14;ML Road Frame - Red, 52;Road Frames;Red;"R "
+277;14;ML Road Frame - Red, 58;Road Frames;Red;"R "
+278;14;ML Road Frame - Red, 60;Road Frames;Red;"R "
+279;14;LL Road Frame - Black, 44;Road Frames;Black;"R "
+280;14;LL Road Frame - Black, 44;Road Frames;Black;"R "
+281;14;LL Road Frame - Black, 44;Road Frames;Black;"R "
+282;14;LL Road Frame - Black, 48;Road Frames;Black;"R "
+283;14;LL Road Frame - Black, 48;Road Frames;Black;"R "
+284;14;LL Road Frame - Black, 48;Road Frames;Black;"R "
+285;14;LL Road Frame - Black, 52;Road Frames;Black;"R "
+286;14;LL Road Frame - Black, 52;Road Frames;Black;"R "
+287;14;LL Road Frame - Black, 52;Road Frames;Black;"R "
+210;14;HL Road Frame - Black, 58;Road Frames;Black;"R "
+211;14;HL Road Frame - Red, 58;Road Frames;Red;"R "
+515;15;LL Mountain Seat/Saddle;Saddles;NA;"M "
+516;15;ML Mountain Seat/Saddle;Saddles;NA;"M "
+517;15;HL Mountain Seat/Saddle;Saddles;NA;"M "
+518;15;LL Road Seat/Saddle;Saddles;NA;"R "
+519;15;ML Road Seat/Saddle;Saddles;NA;"T "
+520;15;HL Road Seat/Saddle;Saddles;NA;"R "
+521;15;LL Touring Seat/Saddle;Saddles;NA;"T "
+522;15;ML Touring Seat/Saddle;Saddles;NA;"T "
+523;15;HL Touring Seat/Saddle;Saddles;NA;"T "
+502;16;LL Touring Frame - Blue, 50;Touring Frames;Blue;"T "
+503;16;LL Touring Frame - Blue, 54;Touring Frames;Blue;"T "
+504;16;LL Touring Frame - Blue, 58;Touring Frames;Blue;"T "
+505;16;LL Touring Frame - Blue, 62;Touring Frames;Blue;"T "
+506;16;LL Touring Frame - Yellow, 44;Touring Frames;Yellow;"T "
+507;16;LL Touring Frame - Yellow, 50;Touring Frames;Yellow;"T "
+508;16;LL Touring Frame - Yellow, 54;Touring Frames;Yellow;"T "
+509;16;LL Touring Frame - Yellow, 58;Touring Frames;Yellow;"T "
+510;16;LL Touring Frame - Blue, 44;Touring Frames;Blue;"T "
+492;16;HL Touring Frame - Yellow, 60;Touring Frames;Yellow;"T "
+493;16;LL Touring Frame - Yellow, 62;Touring Frames;Yellow;"T "
+494;16;HL Touring Frame - Yellow, 46;Touring Frames;Yellow;"T "
+495;16;HL Touring Frame - Yellow, 50;Touring Frames;Yellow;"T "
+496;16;HL Touring Frame - Yellow, 54;Touring Frames;Yellow;"T "
+497;16;HL Touring Frame - Blue, 46;Touring Frames;Blue;"T "
+498;16;HL Touring Frame - Blue, 50;Touring Frames;Blue;"T "
+499;16;HL Touring Frame - Blue, 54;Touring Frames;Blue;"T "
+500;16;HL Touring Frame - Blue, 60;Touring Frames;Blue;"T "
+419;17;LL Mountain Rear Wheel;Wheels;Black;"M "
+420;17;ML Mountain Rear Wheel;Wheels;Black;"M "
+421;17;HL Mountain Rear Wheel;Wheels;Black;"M "
+422;17;LL Road Rear Wheel;Wheels;Black;"R "
+423;17;ML Road Rear Wheel;Wheels;Black;"R "
+424;17;HL Road Rear Wheel;Wheels;Black;"R "
+425;17;Touring Rear Wheel;Wheels;Black;"T "
+410;17;LL Mountain Front Wheel;Wheels;Black;"M "
+411;17;ML Mountain Front Wheel;Wheels;Black;"M "
+412;17;HL Mountain Front Wheel;Wheels;Black;"M "
+413;17;LL Road Front Wheel;Wheels;Black;"R "
+414;17;ML Road Front Wheel;Wheels;Black;"R "
+415;17;HL Road Front Wheel;Wheels;Black;"R "
+416;17;Touring Front Wheel;Wheels;Black;"T "
+459;18;Men's Bib-Shorts, S;Bib-Shorts;Multi;"S "
+460;18;Men's Bib-Shorts, M;Bib-Shorts;Multi;"S "
+461;18;Men's Bib-Shorts, L;Bib-Shorts;Multi;"S "
+223;19;AWC Logo Cap;Caps;Multi;"S "
+224;19;AWC Logo Cap;Caps;Multi;"S "
+225;19;AWC Logo Cap;Caps;Multi;"S "
+462;20;Half-Finger Gloves, S;Gloves;Black;"S "
+463;20;Half-Finger Gloves, S;Gloves;Black;"S "
+464;20;Half-Finger Gloves, M;Gloves;Black;"S "
+465;20;Half-Finger Gloves, M;Gloves;Black;"S "
+466;20;Half-Finger Gloves, L;Gloves;Black;"S "
+467;20;Half-Finger Gloves, L;Gloves;Black;"S "
+468;20;Full-Finger Gloves, S;Gloves;Black;"M "
+469;20;Full-Finger Gloves, M;Gloves;Black;"M "
+470;20;Full-Finger Gloves, L;Gloves;Black;"M "
+488;21;Short-Sleeve Classic Jersey, S;Jerseys;Yellow;"S "
+489;21;Short-Sleeve Classic Jersey, M;Jerseys;Yellow;"S "
+490;21;Short-Sleeve Classic Jersey, L;Jerseys;Yellow;"S "
+491;21;Short-Sleeve Classic Jersey, XL;Jerseys;Yellow;"S "
+226;21;Long-Sleeve Logo Jersey, S;Jerseys;Multi;"S "
+227;21;Long-Sleeve Logo Jersey, S;Jerseys;Multi;"S "
+228;21;Long-Sleeve Logo Jersey, S;Jerseys;Multi;"S "
+229;21;Long-Sleeve Logo Jersey, M;Jerseys;Multi;"S "
+230;21;Long-Sleeve Logo Jersey, M;Jerseys;Multi;"S "
+231;21;Long-Sleeve Logo Jersey, M;Jerseys;Multi;"S "
+232;21;Long-Sleeve Logo Jersey, L;Jerseys;Multi;"S "
+233;21;Long-Sleeve Logo Jersey, L;Jerseys;Multi;"S "
+234;21;Long-Sleeve Logo Jersey, L;Jerseys;Multi;"S "
+235;21;Long-Sleeve Logo Jersey, XL;Jerseys;Multi;"S "
+236;21;Long-Sleeve Logo Jersey, XL;Jerseys;Multi;"S "
+237;21;Long-Sleeve Logo Jersey, XL;Jerseys;Multi;"S "
+445;22;Men's Sports Shorts, S;Shorts;Black;"S "
+453;22;Men's Sports Shorts, M;Shorts;Black;"S "
+454;22;Men's Sports Shorts, L;Shorts;Black;"S "
+455;22;Men's Sports Shorts, XL;Shorts;Black;"S "
+474;22;Women's Mountain Shorts, S;Shorts;Black;"M "
+475;22;Women's Mountain Shorts, M;Shorts;Black;"M "
+476;22;Women's Mountain Shorts, L;Shorts;Black;"M "
+481;23;Racing Socks, M;Socks;White;"R "
+482;23;Racing Socks, L;Socks;White;"R "
+218;23;Mountain Bike Socks, M;Socks;White;"M "
+219;23;Mountain Bike Socks, L;Socks;White;"M "
+456;24;Women's Tights, S;Tights;Black;"S "
+457;24;Women's Tights, M;Tights;Black;"S "
+458;24;Women's Tights, L;Tights;Black;"S "
+471;25;Classic Vest, S;Vests;Blue;"S "
+472;25;Classic Vest, M;Vests;Blue;"S "
+473;25;Classic Vest, L;Vests;Blue;"S "
+483;26;Hitch Rack - 4-Bike;Bike Racks;NA;"S "
+486;27;All-Purpose Bike Stand;Bike Stands;NA;"M "
+477;28;Water Bottle - 30 oz.;Bottles and Cages;NA;"S "
+478;28;Mountain Bottle Cage;Bottles and Cages;NA;"M "
+479;28;Road Bottle Cage;Bottles and Cages;NA;"R "
+484;29;Bike Wash - Dissolver;Cleaners;NA;"S "
+485;30;Fender Set - Mountain;Fenders;NA;"M "
+220;31;Sport-100 Helmet, Blue;Helmets;Blue;"S "
+221;31;Sport-100 Helmet, Blue;Helmets;Blue;"S "
+222;31;Sport-100 Helmet, Blue;Helmets;Blue;"S "
+212;31;Sport-100 Helmet, Red;Helmets;Red;"S "
+213;31;Sport-100 Helmet, Red;Helmets;Red;"S "
+214;31;Sport-100 Helmet, Red;Helmets;Red;"S "
+215;31;Sport-100 Helmet, Black;Helmets;Black;"S "
+216;31;Sport-100 Helmet, Black;Helmets;Black;"S "
+217;31;Sport-100 Helmet, Black;Helmets;Black;"S "
+487;32;Hydration Pack - 70 oz.;Hydration Packs;Silver;"S "
+450;33;Taillights - Battery-Powered;Lights;NA;"R "
+451;33;Headlights - Dual-Beam;Lights;NA;"R "
+452;33;Headlights - Weatherproof;Lights;NA;"R "
+447;34;Cable Lock;Locks;NA;"S "
+446;35;Touring-Panniers, Large;Panniers;Grey;"T "
+448;36;Minipump;Pumps;NA;"S "
+449;36;Mountain Pump;Pumps;NA;"M "
+480;37;Patch Kit/8 Patches;Tires and Tubes;NA;"S "
+528;37;Mountain Tire Tube;Tires and Tubes;NA;"M "
+529;37;Road Tire Tube;Tires and Tubes;NA;"R "
+530;37;Touring Tire Tube;Tires and Tubes;NA;"T "
+535;37;LL Mountain Tire;Tires and Tubes;NA;"M "
+536;37;ML Mountain Tire;Tires and Tubes;NA;"M "
+537;37;HL Mountain Tire;Tires and Tubes;NA;"M "
+538;37;LL Road Tire;Tires and Tubes;NA;"R "
+539;37;ML Road Tire;Tires and Tubes;NA;"R "
+540;37;HL Road Tire;Tires and Tubes;NA;"R "
+541;37;Touring Tire;Tires and Tubes;NA;"T "
